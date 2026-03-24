@@ -1,0 +1,4 @@
+Q1: Technical: Describe the difference between a Process and a Thread in operating systems.
+Q2: Technical: Explain the basic CRUD operations in a database.
+Q3: HR: Tell me about yourself.
+Q4: HR: Describe a situation where you had to resolve a conflict in a team.
